@@ -1,0 +1,6 @@
+name = Breast Man
+destination country = Albania
+location = Mexico
+best food = LASAGNA
+target income = $5,000,000/yr
+preferred dance = salsa
